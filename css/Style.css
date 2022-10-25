@@ -1,0 +1,30 @@
+
+	img {
+  border-radius: 50%;
+}
+h5{
+	text-align: center;
+}
+body{
+	background-color: EAF6F6;
+}
+
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+thead{
+    color: #66BFBF;
+}
+hr {
+	background-color: white;
+	border-style: none;
+	height: 2px;
+	width: 100px;
+}
+
+img:hover {
+    background-color: gold;
+}
